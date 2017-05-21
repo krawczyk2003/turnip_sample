@@ -37,15 +37,3 @@ $ ./install.sh
 $ ./run.sh
 ```
 
-
-
-
-## 実行動画
-
-<blockquote class="twitter-video" data-lang="ja"><p lang="und" dir="ltr"><a href="https://t.co/weXV0f3x9A">pic.twitter.com/weXV0f3x9A</a></p>&mdash; tanaka-kj (@tanaka__kj) <a href="https://twitter.com/tanaka__kj/status/866313107613687809">2017年5月21日</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-
-
